@@ -7,14 +7,14 @@ My life as an undergraduate has almost come to an end. Within the remaining time
 ## Things I am willing to put here:
 
 * Online judge problem solutions
- - Hackerrank
- - UVa Onlinejudge
- - Codeforces
+  - Hackerrank
+  - UVa Onlinejudge
+  - Codeforces
  
 * Mathematical Theory implementations
- - Number theory
- - Basic mathematical problems
- - Greedy Algorithm
- - Dynamic Programming
- - Graph Algorithms
- - Data Structures
+  - Number theory
+  - Basic mathematical problems
+  - Greedy Algorithm
+  - Dynamic Programming
+  - Graph Algorithms
+  - Data Structures
