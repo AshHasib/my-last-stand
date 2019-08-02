@@ -13,6 +13,10 @@ int minSwaps(int A[], int t[], int N) {
             int temp = A[i];
             A[i]= A[t[i]];
             A[t[i]]= temp;
+
+            t[temp] = t[i];
+            t[i]=i;
+
             counter++;
         }
     }
@@ -21,7 +25,7 @@ int minSwaps(int A[], int t[], int N) {
 
 int main() {
     int N;
-    scanf("%d",&N);
+    scanf("%d", &N);
 
     int A[N+1];
     int t[N+1];
