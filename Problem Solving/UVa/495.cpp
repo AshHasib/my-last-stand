@@ -67,6 +67,7 @@ int main()
 
     double time_spent = (double)(en - beg) / CLOCKS_PER_SEC;
     printf("%lf\n", time_spent);
+
     while(scanf("%d", &num)) {
         printf("The Fibonacci number for %d is %s\n", num, fibs[num].c_str());
     }
