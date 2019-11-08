@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SinglyListTest",
+            "request": "launch",
+            "mainClass": "SinglyListTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringCompression",
+            "request": "launch",
+            "mainClass": "StringCompression"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OneEditAway",
+            "request": "launch",
+            "mainClass": "OneEditAway"
+        }
+    ]
+}
