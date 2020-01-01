@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - GraphTraversal",
+            "request": "launch",
+            "mainClass": "Graph.GraphTraversal",
+            "projectName": "my-last-stand_786959a3"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SinglyListTest",
             "request": "launch",
             "mainClass": "SinglyListTest"
